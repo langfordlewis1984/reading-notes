@@ -39,12 +39,16 @@ To maintain a growth mindest I will:
 2. Seek Feedback from mentors and peers
 3. Keep in mind that everything I **DON'T** know... I don't know _**yet**_
 
-You can view my GitHub Repositories [RIGHT HERE](https://github.com/langfordlewis1984?tab=repositories)
+You can view my GitHub Repositories [RIGHT HERE](https://github.com/langfordlewis1984?tab=repositories)  
+
+## About
 
 | TOPIC | FUNCTION | IN LAYMANS TERMS | LINKS
 | ------ | ------ | ------ | ------ |
-| Markdown | lightweight markup language |  Future-proof and universal markup language |  
+| Markdown | Lightweight markup language |  Future-proof and universal markup language |  
 | HTML |  HyperText Markup Language |  The bones, structure and foundations. The _content_ |
 | CSS | Cascading Style Sheets |  The skin, look and format. The _style_ |
 | JavaScript | client-side script to interact with the user  |  The functionality and the actions. The _interactions_ |
+
+✨ Magic ✨  
 
