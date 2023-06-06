@@ -34,4 +34,17 @@ This markdown file has been made to demonstrate deployment with GitHub Pages and
 
 ![A Brain Dressed like Richard Simmons, skipping](https://cdn.shopify.com/s/files/1/0064/4130/4182/articles/Growth_Mindset_header_ebc94042-be15-45b9-936f-ef0d15f7e9a7_1024x1024.png?v=1535676059)  
 
+To maintain a growth mindest I will:
+1. Review my progress regularly, remembering how much I knew on day one.
+2. Seek Feedback from mentors and peers
+3. Keep in mind that everything I **DON'T** know... I don't know _**yet**_
+
 You can view my GitHub Repositories [RIGHT HERE](https://github.com/langfordlewis1984?tab=repositories)
+
+| TOPIC | FUNCTION | IN LAYMANS TERMS | LINKS
+| ------ | ------ | ------ | ------ |
+| Markdown | lightweight markup language |  Future-proof and universal markup language |  
+| HTML |  HyperText Markup Language |  The bones, structure and foundations. The _content_ |
+| CSS | Cascading Style Sheets |  The skin, look and format. The _style_ |
+| JavaScript | client-side script to interact with the user  |  The functionality and the actions. The _interactions_ |
+
