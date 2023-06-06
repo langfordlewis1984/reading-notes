@@ -41,7 +41,7 @@ To maintain a growth mindest I will:
 
 You can view my GitHub Repositories [RIGHT HERE](https://github.com/langfordlewis1984?tab=repositories)  
 
-## About
+## Quick Links
 
 | TOPIC | FUNCTION | IN LAYMANS TERMS | LINKS
 | ------ | ------ | ------ | ------ |
