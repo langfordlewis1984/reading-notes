@@ -24,9 +24,9 @@ Code 201 Reading Notes
 
 | MODULE | CLASS |  MORNING | AFTERNOON |
 | ------ | ------ | ------ | ------ | 
-| 201 | [1](/201/class1.md)|  Set Up Developer Environment |  |
-| 201 | [2](/201/class2.md)|  Markdown / Git / Github | Git Flow / Github Pages / VSC|
-| 201 | [3](/201/class3.md)|  Wireframes / Semantic HTML | Introduction to CSS |
+| 201 | [1](/201/class1.md)|  | |
+| 201 | [2](/201/class2.md)|  | |
+| 201 | [3](/201/class3.md)|  | |
 | 201 | [4](/201/class4.md)|  | |
 | 201 | [5](/201/class5.md)|  | |
 | 201 | [6](/201/class6.md)|  | |
