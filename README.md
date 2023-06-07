@@ -7,6 +7,13 @@ My name is Nick and I'm making my first steps on a Full Stack Developer course w
 
 Code 102 Reading Notes
 
+| MODULE | CLASS | TOPIC | MORNING | AFTERNOON |
+| ------ | ------ | ------ | ------ | ------ |
+| 201 | 1 |  Set Up Developer Environment |  
+| 201 | 2 |  Markdown / Git / Github | Git Flow / Github Pages / VSC|
+| 201 | 3 |  Wireframes / Semantic HTML | Introduction to CSS |
+| 201 | 4 |  | |
+
 1. [Class 1 - Computer Setups](/102/class1.md)
 2. [Class 2 - Markdown and GitHub](/102/class2.md)
 3. [Class 3 -](/102/class3.md)
